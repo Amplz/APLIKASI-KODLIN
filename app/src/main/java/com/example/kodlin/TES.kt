@@ -1,7 +1,7 @@
 
 fun main(args: Array<String>) {
     biodata("amrizal")
-    hobby("baca","baca apa aja pokoknya...")
+    hobby("baca","baca apa aja pokoknya....")
 }
 
 fun biodata(nama: String, kelas:String = "2A"){ // minimal 2 parameter/args
