@@ -16,7 +16,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.KODLIN">
+            android:theme="@style/Theme.Apliksasiketiga">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

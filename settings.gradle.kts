@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KODLIN"
 include(":app")
- 
+include(":app")

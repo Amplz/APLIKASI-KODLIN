@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.KODLIN" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Apliksasiketiga" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
